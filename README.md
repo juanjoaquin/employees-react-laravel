@@ -14,11 +14,22 @@
 
 ![Get2](https://imgur.com/0LCElgx.png)
  
-2. ``Formularios para la creación y la edición de empleados.``
+``Formularios para la creación y la edición de empleados.``
 
 ![Get3](https://imgur.com/rlKS0jT.png)
 
 ![Get3](https://imgur.com/UCWRze0.png)
+
+2. ``Filtrado de empleados por país``
+
+![Get4](https://imgur.com/mvrZgHa.png)
+
+![Get5](https://imgur.com/xJHBtGS.png)
+
+``Creación y edición del país de los empleados``
+![Get6](https://imgur.com/j0SAR9Z.png)
+
+![Get7](https://imgur.com/k9Bw7J4.png)
 
 
 
