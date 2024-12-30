@@ -11,8 +11,14 @@
 1. Obtienes la lista de los empleados a través de estádisticas utilizando Chart Js. También datos como el total de empleados, pais, ciudad y en que oficios tienen más trabajadores y en cuáles hacen falta.
 
 ![Get](https://imgur.com/7T2XnUA.png) 
+
 ![Get2](https://imgur.com/0LCElgx.png)
  
-2. 
+2. ``Formularios para la creación y la edición de empleados.``
+
+Creación:
+![Get3](https://imgur.com/rlKS0jT.png)
+
+
 
 
