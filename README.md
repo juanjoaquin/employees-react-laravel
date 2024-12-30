@@ -29,7 +29,25 @@
 ``Creación y edición del país de los empleados``
 ![Get6](https://imgur.com/j0SAR9Z.png)
 
-![Get7](https://imgur.com/k9Bw7J4.png)
+![Get7](https://imgur.com/SWISxbL.png)
+
+3. ``Manejo de Oficios de los empleados``
+
+GET de todos los oficios, y los que no están ocupados
+
+![Get8](https://imgur.com/d9LBskV.png)
+
+![Get9](https://imgur.com/vmXE9Sk.png)
+
+Formularios y edición de los Oficios
+
+![Get10](https://imgur.com/uZcf12a.png)
+
+![Get11](https://imgur.com/X1SptYd.png)
+
+
+
+
 
 
 
