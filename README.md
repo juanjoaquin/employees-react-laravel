@@ -53,6 +53,14 @@ Formularios y edición de los Oficios
 
 ![Get14](https://imgur.com/0gTezsB.png)
 
+5. ``Manejo de los Estados de las ciudades de los empleados``
+
+![Get15](https://imgur.com/Uam2vmw.png)
+
+![Get16](https://imgur.com/ksjjvCk.png)
+
+![Get17](https://imgur.com/HO0cpO5.png)
+
 
 
 
