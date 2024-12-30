@@ -26,12 +26,12 @@
 
 ![Get5](https://imgur.com/xJHBtGS.png)
 
-``Creación y edición del país de los empleados``
+Creación y edición del país de los empleados
 ![Get6](https://imgur.com/j0SAR9Z.png)
 
 ![Get7](https://imgur.com/SWISxbL.png)
 
-3. ``Manejo de Oficios de los empleados``
+3. ``Manejo de oficios de los empleados``
 
 GET de todos los oficios, y los que no están ocupados
 
@@ -44,6 +44,14 @@ Formularios y edición de los Oficios
 ![Get10](https://imgur.com/uZcf12a.png)
 
 ![Get11](https://imgur.com/X1SptYd.png)
+
+4. ``Manejo de las ciudades de los empleados``
+
+![Get12](https://imgur.com/eRIzmsT.png)
+
+![Get13](https://imgur.com/w1F1d38.png)
+
+![Get14](https://imgur.com/0gTezsB.png)
 
 
 
