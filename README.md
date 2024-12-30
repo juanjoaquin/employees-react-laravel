@@ -16,8 +16,9 @@
  
 2. ``Formularios para la creación y la edición de empleados.``
 
-Creación:
 ![Get3](https://imgur.com/rlKS0jT.png)
+
+![Get3](https://imgur.com/UCWRze0.png)
 
 
 
